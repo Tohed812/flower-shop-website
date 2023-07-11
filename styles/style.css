@@ -23,14 +23,14 @@ body {
 
 .header {
   background-color: #e554731a;
-  
+  /* height: 850px; */
   
 }
 
 
 .banner{
 
-    padding: 197px 972px 365px 240px;
+    padding: 197px 972px 0px 240px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -69,4 +69,6 @@ body {
 .banner .banner-picture
 {
     width: 635px;
+    height: 800px;
+    padding: 50px 240px 0px 1045px;
 }
